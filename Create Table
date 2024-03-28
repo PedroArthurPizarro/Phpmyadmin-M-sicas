@@ -1,0 +1,7 @@
+CREATE TABLE Músicas (
+ID INT (11),
+Musica VARCHAR (255),
+Artista VARCHAR (255),
+Idioma VARCHAR (255),
+Duração INT (11);
+);
