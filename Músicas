@@ -1,0 +1,22 @@
+INSERT INTO Músicas (ID, Musica, Artista, Idioma, Duração)
+VALUES
+(1, "Canon Rock", 'Jerry C', NULL, 5),
+(2, "Stars", 'Skillet', 'Inglês', 4),
+(3, "Through The Fire And Flames", 'DragonForce', 'Inglês', 7),
+(4, "Whispers in the Dark", 'Skillet', 'Inglês', 3),
+(5, "My Demons", 'STARSET', 'Inglês', 5),
+(6, "Playing God", 'Polyphia', NULL, 3),
+(7, "Young Girl A", 'siinamota', 'Japonês', 4),
+(8, "Grandioso Deus", 'Purples', 'Português', 4),
+(9, "Sunflower", 'Post Malone', 'Inglês', 3),
+(10, "Its Raining Somewhere Else", 'Toby Fox', NULL, 5),
+(11, "Roling Girl", 'wowaka', 'Inglês/Japonês', 3),
+(12, "It's Not Me, It's You", 'Skillet', 'Inglês', 3),
+(13, "Never Surrender", 'Skillet', 'Inglês', 4),
+(14, "Comatose", 'Skillet', 'Inglês', 4),
+(15, "Undefeated", 'Skillet', 'Inglês', 4),
+(16, "Ego Death", 'Polyphia', NULL, 6),
+(17, "Field of Hopes and Dreams", 'Toby Fox', NULL, 4),
+(18, "Undefeatable", 'Kelly Quinn', 'Inglês', 4),
+(19, "Better Than Drugs", 'Skillet', 'Inglês', 4),
+(20, "Farewell", 'Bernth', NULL, 2);
